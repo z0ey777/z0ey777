@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @z0ey777
-- 👀 I’m interested in Malware Research
-- 🌱 I’m currently learning Malware Analysis and Reverse Engineering
-- 💞️ I’m looking to collaborate on Malware Research Projects
+- 👀 I’m interested in Machine Learning and Artificial Intelligence.
 
 
 <!---
